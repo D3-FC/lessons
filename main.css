@@ -1,0 +1,44 @@
+body {
+  background-color: #f7f8fa;
+}
+.movies-watch-list {
+  width: 450px;
+  border-radius: 10px;
+  box-shadow: 0 -1px 54px 0 rgba(208, 211, 218, 0.5);
+  box-sizing: border-box;
+  display: block;
+  padding-left: 65px;
+  padding-right: 65px;
+}
+
+.movies-watch-list__title {
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: 1.5px;
+  color: #9b9b9b;
+  display: flex;
+  justify-content: center;
+  padding-top: 41px;
+  padding-bottom: 52px;
+}
+.movies-watch-list__item {
+  width: 242px;
+  height: 28px;
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: 1.5px;
+  color: #ff8376;
+  padding-bottom: 45px;
+}
+
+.movies-watch-list__item:last-child{
+  padding-bottom: 61px;
+}
