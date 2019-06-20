@@ -25,9 +25,6 @@
 }
 
 .user-card__profile {
-    padding-bottom: 46px;
-    align-items: center;
-    justify-content: center;
     font-family: SourceSansPro;
     font-size: 18px;
     font-weight: normal;
@@ -36,4 +33,14 @@
     line-height: 1.33;
     letter-spacing: normal;
     color: #ff8376;
+}
+
+.user-card-prifile__box {
+    text-align:center;
+    margin: 0 auto;
+    width: 162px;
+    height: 48px;
+    border-radius: 3px;
+    border: solid 1px #ff8376;
+    padding-bottom: 46px;
 }
