@@ -42,5 +42,7 @@
     height: 48px;
     border-radius: 3px;
     border: solid 1px #ff8376;
-    padding-bottom: 46px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
