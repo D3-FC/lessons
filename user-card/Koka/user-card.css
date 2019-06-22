@@ -6,16 +6,20 @@
     background-color: #ffffff;
     display: flex;
     flex-direction: column;
+    justify-content: space-around;
 }
 
 .user-card__image {
-    padding-top: 61px;
-    padding-left: 156px;
+    padding-top: 31px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .user-card__user {
-    text-align:center;
-    padding-top: 31px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     font-family: Roboto;
     font-size: 24px;
     font-weight: normal;
@@ -25,6 +29,33 @@
     letter-spacing: 1.5px;
     color: #9b9b9b;
 }
+
+.user-card__box-link {
+    text-align:center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.user-card-prifile__box {
+    display: flex;
+    text-align:center;
+    align-items: center;
+    justify-content: center;
+    width: 162px;
+    height: 48px;
+    border-radius: 3px;
+    border: solid 1px #ff8376;
+    font-family: SourceSansPro;
+    font-size: 18px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    color: #ff8376;
+}
+
 
 .user-card__profile {
     font-family: SourceSansPro;
@@ -36,16 +67,4 @@
     letter-spacing: normal;
     color: #ff8376;
     margin-top: auto;
-}
-
-.user-card-prifile__box {
-    text-align:center;
-    margin: 0 auto;
-    width: 162px;
-    height: 48px;
-    border-radius: 3px;
-    border: solid 1px #ff8376;
-    display: flex;
-    align-items: center;
-    justify-content: center;
 }
