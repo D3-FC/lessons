@@ -56,16 +56,3 @@
     letter-spacing: normal;
     color: #ff8376;
 }
-
-
-.user-card__profile {
-    font-family: SourceSansPro;
-    font-size: 18px;
-    font-weight: normal;
-    font-style: normal;
-    font-stretch: normal;
-    line-height: 1.33;
-    letter-spacing: normal;
-    color: #ff8376;
-    margin-top: auto;
-}
