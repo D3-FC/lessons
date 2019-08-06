@@ -1,0 +1,183 @@
+/*Блок с фото и гифкой №1*/
+.img {
+    width: 570px;
+    height: 300px;
+    box-shadow: 0 0 15px 0 var(--pinkish-grey-50);
+    background-color: rgba(92, 92, 92, 0.4);
+    margin-top: 34px;
+    margin-right:35px ;
+    margin-left: 35px;
+}
+.foto {
+    height:54px;
+    width: 54px;
+    border-radius:100%;/* Радиус скругления */
+    margin-top: 23px;
+    margin-left:35px ;
+}
+.name{
+    width: 150px;
+    height: 28px;
+    font-family: Roboto;
+    font-size: 24px;
+    letter-spacing: 0px;
+    color: #080808;
+    margin-right:;
+    margin-left: 110px;
+    margin-top: -39px;
+}
+.time{
+    width: 54px;
+    height: 19px;
+    font-family: Roboto;
+    font-size: 16px;
+    letter-spacing: 0px;
+    text-align: right;
+    color: #9B9B9B;
+    margin-left:550px;
+    margin-top: -20px;
+
+}
+.gif{
+    position: absolute;
+    left: 274px;
+    top: 213px;
+    width: 96px;
+    height: 96px;
+    text-shadow: 0 0 4px rgba(0, 0, 0, 0.5);
+    font-family: SourceSansPro;
+    font-size: 36px;
+    font-weight: 600;
+    letter-spacing: 0px;
+    color: #ffffff;
+}
+.Line {
+    width: 572px;
+    height: 1px;
+    border-bottom:solid 1px #EDEEF1;
+    position: absolute;
+    top: 480px;
+    left: 40px;
+
+}
+.Add-a-comment {
+    width: 119px;
+    height: 18px;
+    font-family: Roboto;
+    font-size: 15px;
+    letter-spacing: 0.94px;
+    color: #9b9b9b;
+    position: absolute;
+    top: 520px;
+    left: 40px;
+}
+.Year-2017 {
+    width: 80px;
+    height: 18px;
+    font-family: Roboto;
+    font-size: 15px;
+    letter-spacing: 0.94px;
+    color: #9b9b9b;
+    position: absolute;
+    top: 435px;
+    left: 440px;
+}
+.Genders-TV-Shows {
+    width: 151px;
+    height: 18px;
+    font-family: Roboto;
+    font-size: 15px;
+    letter-spacing: 0.94px;
+    color: #9b9b9b;
+    position: absolute;
+    top:468px ;
+    left: 376px;
+}
+.Season {
+    width: 70px;
+    height: 18px;
+    font-family: Roboto;
+    font-size: 15px;
+    letter-spacing: 0.94px;
+    color: #9b9b9b;
+    position: absolute;
+    top: 468px;
+    left: 551px;
+}
+.old {
+    width: 29px;
+    height: 18px;
+    font-family: Roboto;
+    font-size: 15px;
+    letter-spacing: 0.94px;
+    color: #9b9b9b;
+    position: absolute;
+    top:435px ;
+    left:587px ;
+    width: 26px;
+    height: 15px;
+    border: solid 1px #9b9b9b;
+}
+.like{
+    border-radius: 17px;
+    width: 25px;
+    height: 25px;
+}
+.like_position{
+    position: absolute;
+    top:512px;
+    left:542px;
+    background: rgba(76, 175, 80,0);
+    border-radius: 17px;
+    border: none;
+}
+.arrow{
+    width: 25px;
+    height: 25px;
+}
+.arow_position{
+    position: absolute;
+    top:512px;
+    left:580px ;
+    background: rgba(76, 175, 80,0);
+    border-radius: 17px;
+    border: none;
+
+
+}
+.play_position{
+    position: absolute;
+    top:447px;
+    left:40px;
+    background: rgba(76, 175, 80,0);
+    border-radius: 17px;
+    border: none;
+}
+.play{
+    border-radius: 17px;
+    width: 25px;
+    height: 25px;
+
+}
+.Rectangle4 {
+    position: absolute;
+    top: 850px;
+    left: 105px;
+    width: 650px;
+    height: 600px;
+    border-radius: 1px;
+    box-shadow: 0 -1px 54px 0 rgba(208, 211, 218, 0.5); <!--Главная Рамка-->
+background-color: #ffffff;
+}
+.DESIGNATED4 {
+    width: 162px;
+    height: 28px;
+    font-family: Roboto;
+    font-size: 24px;
+    letter-spacing: 2px;
+    color: var(--greyish-brown);
+    position: absolute;
+    left: 85px;
+    top: 448px;
+
+}

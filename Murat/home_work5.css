@@ -1,0 +1,150 @@
+/*Список №2*/
+.COMPANY {
+    position: absolute;
+    top: 1590px;
+    left: 235px;
+    width: 99px;
+    height: 18px;
+    font-family: Roboto;
+    font-weight: bold;
+    line-height: 1.2;
+    color: var(--greyish-brown);
+}
+.About-Us-Join-the-Te {
+   position: absolute;
+    top: 1610px;
+    left: 150px;
+    width: 138px;
+    height: 104px;
+    line-height: 1.86;
+    font-family: Roboto;
+    color: #4a4a4a;
+}
+.ABout-Us-Join-the-Te{
+    width: 242px;
+    height: 28px;
+    color: #4a4a4a;
+}
+
+/*Список №3*/
+.Account-FAQ-Subscrip {
+    position: absolute;
+    top: 1610px;
+    left: 450px;
+    width: 138px;
+    height: 104px;
+    font-family: Roboto;
+    line-height: 1.86;
+    color: #4a4a4a;
+}
+.ACcount-FAQ-Subscrip{
+    width: 80px;
+    height: 78px;
+
+
+
+}
+#Account{
+    position: absolute;
+    top: px;
+}
+#FAQ{
+    position: absolute;
+    top: 28px;
+}
+#Subscription{
+    position: absolute;
+    top: 57px;
+}
+#ME{
+    position: absolute;
+    left: 88px;
+    top: -30px;
+    color: #4a4a4a;
+}
+
+
+/*Список №4*/
+.CONTACT {
+    width: 99px;
+    height: 18px;
+    line-height: 1.2;
+    color:#4a4a4a;
+    position: absolute;
+    top: -53px;
+    font-family: Roboto;
+
+}
+.Contact-Us-Support-P {
+    width: 190px;
+    height: 104px;
+    line-height: 1.86;
+    letter-spacing: normal;
+    color: var(--greyish-brown);
+    position: absolute;
+    top: 1644px;
+    left: 700px;
+
+}
+
+.List1{
+    list-style-type: none;
+
+}
+.roboto{
+    font-family: Roboto;
+}
+
+/**Список №5*/
+.Phone-910-434-4703 {
+    width: 199px;
+    height: 26px;
+    line-height: 1.86;
+    letter-spacing: normal;
+    color: var(--greyish-brown);
+}
+
+.Phone-910-434-4703 .text-style-1 {
+    font-weight: 500;
+}
+.Email-salestapene {
+    width: 199px;
+    height: 26px;
+    line-height: 1.86;
+    letter-spacing: normal;
+    color: var(--greyish-brown);
+}
+
+.Email-salestapene .text-style-1 {
+    font-weight: 500;
+}
+.TALK-TO-SALES {
+    width: 500px;
+    height: 18px;
+    font-family: Roboto;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.2;
+    letter-spacing: normal;
+    color: var(--greyish-brown);
+}
+#position1{
+    position: absolute;
+    top: 1590px;
+    left: 960px;
+}
+#position2{
+    position: absolute;
+    top: 1660px;
+    left: 960px;
+}
+#position3{
+    position: absolute;
+    top: 1695px;
+    left: 960px;
+}
+.stile{
+    list-style-type: none;
+    font-family: Roboto;
+}

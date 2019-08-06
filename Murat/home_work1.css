@@ -1,0 +1,47 @@
+
+/* фото имя профиль*/
+.foto1 {
+    height:139px;
+    width: 139px;
+    border-radius:100%;/* Радиус скругления */
+    margin:61px 1px 21px 134px ;
+
+}
+.Rectangle1 {
+    position: absolute;
+    top: 210px;
+    left:790px ;
+    width: 400px;
+    height: 347px;
+    border-radius: 10px;
+    box-shadow: 0 -1px 54px 0 rgba(208, 211, 218, 0.5);
+    background-color: #ffffff;
+
+
+}
+.name1 {
+    width: 170px;
+    height: 28px;
+    font-family: Roboto;
+    font-size: 24px;
+    letter-spacing: 1.5px;
+    color: #9b9b9b;
+    margin:11px 140px 27px 120px ;
+    display:flex;
+    justify-content: center;
+    align-items:center;
+}
+.My-Profile {
+    width: 75px;
+    height: 24px;
+    font-family: SourceSansPro;
+    color: #ff8376;
+    width: 162px;
+    height: 48px;
+    border-radius: 3px;
+    border: solid 1px #ff8376;
+    margin: -30px 144px 0px 125px;
+    display:flex;
+    justify-content: center;
+    align-items:center;
+}

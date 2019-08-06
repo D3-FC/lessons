@@ -1,0 +1,72 @@
+/*Список №1*/
+
+.Movies-to-Watch {
+    width: 201px;
+    height: 28px;
+    font-size: 24px;
+    letter-spacing: 1.5px;
+    color: #9b9b9b;
+
+}
+#Movies-to-whatc{
+    position: absolute;
+    top: 30px;
+    left: 100px;
+
+}
+.List{
+
+    list-style-type: none;
+    position: absolute;
+    top: 35px;
+    left: 49px;
+
+}
+.list{
+    position: absolute;
+    top:595px;
+    left: 790px;
+    width: 400px;
+    height: 400px;
+    border-radius: 10px;
+    box-shadow: 0 -1px 54px 0 rgba(208, 211, 218, 0.5);
+    background-color: #ffffff;
+
+}
+.Designated-Survivor {
+    width: 242px;
+    height: 28px;
+    font-family: Roboto;
+    letter-spacing: 1.5px;
+    color: #ff8376;
+
+}
+
+#Designated_survior{
+ position: absolute;
+    top: 75px;
+    left: 10px;
+}
+#Narcos{
+    position: absolute;
+    top: 120px;
+    left: 10px;
+}
+
+#Abstract {
+    position: absolute;
+    top: 165px;
+    left: 10px;
+}
+
+#ice_age{
+    position: absolute;
+    top: 210px;
+    left: 10px;
+}
+#home_alone{
+    position: absolute;
+    top: 255px;
+    left: 10px;
+}
+
