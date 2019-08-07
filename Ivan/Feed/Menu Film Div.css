@@ -1,0 +1,76 @@
+.main{
+    width: 450px;
+    height: 500px;
+    border-radius: 10px;
+    box-shadow: 0 -1px 54px 0 rgba(208, 211, 218, 0.5);
+    background-color: #ffffff;
+}
+h3{
+    width: 201px;
+    height: 28px;
+    font-family: Roboto;
+    font-size: 24px;
+    letter-spacing: 1.5px;
+    color: #9b9b9b;
+    padding: 41px 124px 0 125px;
+}
+ul{
+    display: inline;
+}
+.designated__survivor{
+    width: 242px;
+    height: 28px;
+    font-family: Roboto;
+    font-size: 24px;
+    letter-spacing: 1.5px;
+    color: #ff8376;
+
+    padding: 0 163px 45px 65px;
+}
+
+.narcos{
+    width: 86px;
+    height: 28px;
+    font-family: Roboto;
+    font-size: 24px;
+    letter-spacing: 1.5px;
+    color: #ff8376;
+
+    padding: 0 299px 44px 65px;
+}
+
+.abstract{
+    width: 103px;
+    height: 28px;
+    font-family: Roboto;
+    font-size: 24px;
+    letter-spacing: 1.5px;
+    color: #ff8376;
+
+    padding: 0 282px 45px 65px;
+}
+
+.ice__age{
+    width: 91px;
+    height: 28px;
+    font-family: Roboto;
+    font-size: 24px;
+    letter-spacing: 1.5px;
+    color: #ff8376;
+
+    padding: 0 294px 44px 65px;
+}
+
+.home__alone{
+    width: 145px;
+    height: 28px;
+    font-family: Roboto;
+    font-size: 24px;
+    letter-spacing: 1.5px;
+    color: #ff8376;
+    padding: 0 240px 0 65px;
+}
+
+
+
+
